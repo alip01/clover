@@ -1,0 +1,52 @@
+[0.049s] Invoking command in '/home/alip/clover_ws/src/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/alip/clover_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alip/clover_ws/src/install/my_package
+[1.791s] -- The C compiler identification is GNU 9.4.0
+[3.635s] -- The CXX compiler identification is GNU 9.4.0
+[3.798s] -- Check for working C compiler: /usr/bin/cc
+[4.029s] -- Check for working C compiler: /usr/bin/cc -- works
+[4.043s] -- Detecting C compiler ABI info
+[4.226s] -- Detecting C compiler ABI info - done
+[4.245s] -- Detecting C compile features
+[4.261s] -- Detecting C compile features - done
+[4.298s] -- Check for working CXX compiler: /usr/bin/c++
+[4.414s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[4.415s] -- Detecting CXX compiler ABI info
+[4.472s] -- Detecting CXX compiler ABI info - done
+[4.481s] -- Detecting CXX compile features
+[4.482s] -- Detecting CXX compile features - done
+[4.520s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[4.649s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[4.649s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.828s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.990s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[5.259s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.268s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.270s] -- Added test 'lint_cmake' to check CMake code style
+[5.272s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[5.280s] -- Added test 'xmllint' to check XML markup files
+[5.300s] -- Configuring done
+[5.307s] -- Generating done
+[5.310s] -- Build files have been written to: /home/alip/clover_ws/src/build/my_package
+[5.316s] Invoked command in '/home/alip/clover_ws/src/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/alip/clover_ws/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alip/clover_ws/src/install/my_package
+[5.321s] Invoking command in '/home/alip/clover_ws/src/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/alip/clover_ws/src/build/my_package -- -j8 -l8
+[5.363s] Invoked command in '/home/alip/clover_ws/src/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/alip/clover_ws/src/build/my_package -- -j8 -l8
+[5.393s] Invoking command in '/home/alip/clover_ws/src/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/alip/clover_ws/src/build/my_package
+[5.403s] -- Install configuration: ""
+[5.403s] -- Execute custom install script
+[5.404s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/launch/listener.launch.py
+[5.413s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/launch/talker.launch.py
+[5.422s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+[5.431s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+[5.440s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/environment/ament_prefix_path.sh
+[5.448s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+[5.456s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/environment/path.sh
+[5.463s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/environment/path.dsv
+[5.469s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/local_setup.bash
+[5.475s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/local_setup.sh
+[5.481s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/local_setup.zsh
+[5.488s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/local_setup.dsv
+[5.493s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/package.dsv
+[5.500s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/ament_index/resource_index/packages/my_package
+[5.506s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+[5.511s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+[5.517s] -- Symlinking: /home/alip/clover_ws/src/install/my_package/share/my_package/package.xml
+[5.525s] Invoked command in '/home/alip/clover_ws/src/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/alip/clover_ws/src/build/my_package
