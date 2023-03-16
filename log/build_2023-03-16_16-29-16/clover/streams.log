@@ -1,0 +1,28 @@
+[0.023s] Invoking command in '/home/alip/clover_ws/src/build/clover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/alip/clover_ws/src/clover -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alip/clover_ws/src/install/clover
+[0.072s] -- The C compiler identification is GNU 9.4.0
+[0.098s] -- The CXX compiler identification is GNU 9.4.0
+[0.102s] -- Check for working C compiler: /usr/bin/cc
+[0.152s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.152s] -- Detecting C compiler ABI info
+[0.201s] -- Detecting C compiler ABI info - done
+[0.211s] -- Detecting C compile features
+[0.211s] -- Detecting C compile features - done
+[0.212s] -- Check for working CXX compiler: /usr/bin/c++
+[0.269s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.270s] -- Detecting CXX compiler ABI info
+[0.326s] -- Detecting CXX compiler ABI info - done
+[0.336s] -- Detecting CXX compile features
+[0.336s] -- Detecting CXX compile features - done
+[0.338s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.356s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.356s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.499s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.537s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.632s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.638s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.639s] -- Added test 'lint_cmake' to check CMake code style
+[0.640s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.643s] -- Added test 'xmllint' to check XML markup files
+[0.645s] -- Configuring done
+[0.646s] -- Generating done
+[0.647s] -- Build files have been written to: /home/alip/clover_ws/src/build/clover

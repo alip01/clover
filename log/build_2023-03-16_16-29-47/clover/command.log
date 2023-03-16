@@ -1,0 +1,6 @@
+Invoking command in '/home/alip/clover_ws/src/build/clover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/alip/clover_ws/src/clover -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alip/clover_ws/src/install/clover
+Invoked command in '/home/alip/clover_ws/src/build/clover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/alip/clover_ws/src/clover -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/alip/clover_ws/src/install/clover
+Invoking command in '/home/alip/clover_ws/src/build/clover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/alip/clover_ws/src/build/clover -- -j8 -l8
+Invoked command in '/home/alip/clover_ws/src/build/clover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/alip/clover_ws/src/build/clover -- -j8 -l8
+Invoking command in '/home/alip/clover_ws/src/build/clover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/alip/clover_ws/src/build/clover
+Invoked command in '/home/alip/clover_ws/src/build/clover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/alip/clover_ws/src/build/clover

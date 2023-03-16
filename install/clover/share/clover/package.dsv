@@ -1,0 +1,8 @@
+source;share/clover/hook/cmake_prefix_path.ps1
+source;share/clover/hook/cmake_prefix_path.dsv
+source;share/clover/hook/cmake_prefix_path.sh
+source;share/clover/local_setup.bash
+source;share/clover/local_setup.dsv
+source;share/clover/local_setup.ps1
+source;share/clover/local_setup.sh
+source;share/clover/local_setup.zsh

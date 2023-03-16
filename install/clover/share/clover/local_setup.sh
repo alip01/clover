@@ -1,0 +1,1 @@
+/home/alip/clover_ws/src/build/clover/ament_cmake_environment_hooks/local_setup.sh

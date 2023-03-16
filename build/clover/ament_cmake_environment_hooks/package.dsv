@@ -1,0 +1,4 @@
+source;share/clover/local_setup.bash
+source;share/clover/local_setup.dsv
+source;share/clover/local_setup.sh
+source;share/clover/local_setup.zsh

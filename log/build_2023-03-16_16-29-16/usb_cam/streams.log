@@ -1,0 +1,35 @@
+[0.061s] Invoking command in '/home/alip/clover_ws/src/build/usb_cam': /usr/bin/cmake /home/alip/clover_ws/src/usb_cam -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/alip/clover_ws/src/install/usb_cam
+[0.107s] -- The C compiler identification is GNU 9.4.0
+[0.155s] -- The CXX compiler identification is GNU 9.4.0
+[0.161s] -- Check for working C compiler: /usr/bin/cc
+[0.210s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.211s] -- Detecting C compiler ABI info
+[0.258s] -- Detecting C compiler ABI info - done
+[0.270s] -- Detecting C compile features
+[0.270s] -- Detecting C compile features - done
+[0.273s] -- Check for working CXX compiler: /usr/bin/c++
+[0.329s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.330s] -- Detecting CXX compiler ABI info
+[0.389s] -- Detecting CXX compiler ABI info - done
+[0.401s] -- Detecting CXX compile features
+[0.402s] -- Detecting CXX compile features - done
+[0.410s] CMake Error at CMakeLists.txt:7 (find_package):
+[0.410s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.410s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.410s]   CMake did not find one.
+[0.411s] 
+[0.411s]   Could not find a package configuration file provided by "catkin" with any
+[0.411s]   of the following names:
+[0.411s] 
+[0.411s]     catkinConfig.cmake
+[0.411s]     catkin-config.cmake
+[0.411s] 
+[0.411s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.411s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.411s]   provides a separate development package or SDK, be sure it has been
+[0.411s]   installed.
+[0.412s] 
+[0.412s] 
+[0.412s] -- Configuring incomplete, errors occurred!
+[0.412s] See also "/home/alip/clover_ws/src/build/usb_cam/CMakeFiles/CMakeOutput.log".
+[0.414s] Invoked command in '/home/alip/clover_ws/src/build/usb_cam' returned '1': /usr/bin/cmake /home/alip/clover_ws/src/usb_cam -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCATKIN_SYMLINK_INSTALL=ON -DCMAKE_INSTALL_PREFIX=/home/alip/clover_ws/src/install/usb_cam
